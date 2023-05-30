@@ -7,7 +7,7 @@
 #
 
 # Pull base image
-FROM ubuntu:18.04
+FROM ubuntu:kinetic
 MAINTAINER piotr.balcer@intel.com
 
 # Update the Apt cache and install basic tools
